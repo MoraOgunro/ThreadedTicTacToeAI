@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">project4</string>
+    <string name="download_image">Start Game</string>
+    <string name="toast">Toast</string>
+</resources>
